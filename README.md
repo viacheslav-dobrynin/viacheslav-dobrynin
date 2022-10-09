@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vyacheslav Dobrynin</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=DobryninVyacheslav alt=DobryninVyacheslav/> </p>
 
-| <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DobryninVyacheslav&count_private=true&include_all_commits=true&hide_border=true"/></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobryninVyacheslav&layout=compact&hide_border=true"/></p> |
+| <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DobryninVyacheslav&count_private=true&include_all_commits=true&hide_border=true"/></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobryninVyacheslav&layout=compact&hide_border=true"/></p> |
 | ------------- | ------------- |
 
 <p align="center">
